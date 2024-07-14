@@ -20,9 +20,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarineChae&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarineChae&layout=compact)](https://github.com/MarineChae/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarineChae&repo=Unreal_Team_Portfolio)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarineChae&repo=DX3D11_MapTool)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarineChae&repo=Dx2D-Maple-Project)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarineChae&repo=Unreal_Team_Portfolio)](https://github.com/MarineChae/Unreal_Team_Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarineChae&repo=DX3D11_MapTool)](https://github.com/MarineChae/DX3D11_MapTool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarineChae&repo=Dx2D-Maple-Project)](https://github.com/MarineChae/Dx2D-Maple-Project)
 
 
 </div>
