@@ -23,12 +23,10 @@
 
 
 
-<br>
-<h3 align="center">👩‍💻 Lang 👩‍💻</h3>
-<div align="center">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarineChae&layout=compact)](https://github.com/MarineChae/github-readme-stats)
 
-</div>
 
 
 
